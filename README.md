@@ -10,11 +10,11 @@
 
 * 图片欣赏：
 
-![image](https://github.com/Sharlion/z170_6700k_hackintosh/blob/10.13/pic/1.png)<div align=center>
+.<div align=center><img src="https://github.com/Sharlion/z170_6700k_hackintosh/blob/10.13/pic/1.png" /></div>
 
-![image](https://github.com/Sharlion/z170_6700k_hackintosh/blob/10.13/pic/3.png)<div align=center>
+.<div align=center><img src="https://github.com/Sharlion/z170_6700k_hackintosh/blob/10.13/pic/2.png" /></div>
 
-![image](https://github.com/Sharlion/z170_6700k_hackintosh/blob/10.13/pic/2.png)<div align=center>
+.<div align=center><img src="https://github.com/Sharlion/z170_6700k_hackintosh/blob/10.13/pic/3.png" /></div>
 
 * 工作情况如下：
 
