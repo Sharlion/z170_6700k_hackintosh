@@ -4,8 +4,8 @@
 	
 |作者|sharlion|
 |---|---
-|微博|sharlion.com|
-|远景论坛ID|mingliilike|
+|微博|[sharlion](https://weibo.com/sharlion "悬停显示")|
+|远景论坛ID|[mingliilike](http://i.pcbeta.com/space-uid-4384502.html "悬停显示")|
 
 * [配置如下]
 ![image](https://github.com/Sharlion/z170_6700k_hackintosh/blob/10.13/pic/4.png)<div align=center>
