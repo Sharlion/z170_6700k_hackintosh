@@ -1,14 +1,16 @@
-* 配置如下：
+#Z170+6700K+RX470 hackintosh
+
+##配置如下：
 
 ![image](https://github.com/Sharlion/z170_6700k_hackintosh/blob/10.13/pic/4.png)<div align=center>
 
-* 配置改动如下：
+##配置改动如下：
 
   * 由于原GTX970在10.14上没有驱动，所以显卡部分换为蓝宝石RX470（改的580的马甲）
 
   * 显示器在图片基础上换成了2k显示器
 
-* 图片欣赏：
+##图片欣赏：
 
 <div align=center><img src="https://github.com/Sharlion/z170_6700k_hackintosh/blob/10.13/pic/1.png" /></div>
 
@@ -16,7 +18,7 @@
 
 <div align=center><img src="https://github.com/Sharlion/z170_6700k_hackintosh/blob/10.13/pic/3.png" /></div>
 
-* 工作情况如下：
+##工作情况如下
 
   * 10.14.3（此config兼容10.13.6）
 
