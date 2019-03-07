@@ -11,8 +11,10 @@
 图片欣赏：
 
 ![image](https://github.com/Sharlion/z170_6700k_hackintosh/blob/10.13/pic/1.png)
-![image](https://github.com/Sharlion/z170_6700k_hackintosh/blob/10.13/pic/2.png)
+
 ![image](https://github.com/Sharlion/z170_6700k_hackintosh/blob/10.13/pic/3.png)
+
+![image](https://github.com/Sharlion/z170_6700k_hackintosh/blob/10.13/pic/2.png)
 
 工作情况如下：
 
@@ -21,3 +23,7 @@
 显卡、声卡、网卡三卡完美
 
 USB3.0正常
+
+cpu变频正常
+
+电源五项正常
