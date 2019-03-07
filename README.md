@@ -5,7 +5,9 @@
 配置改动如下：
 
 由于原GTX970在10.14上没有驱动，所以显卡部分换为蓝宝石RX470（改的580的马甲）
+
 显示器在图片基础上换成了2k显示器
+
 图片欣赏：
 
 ![image](https://github.com/Sharlion/z170_6700k_hackintosh/blob/10.13/pic/1.png)
