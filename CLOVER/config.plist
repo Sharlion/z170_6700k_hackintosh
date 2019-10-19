@@ -79,6 +79,20 @@
 					SUdQVQ==
 					</data>
 				</dict>
+				<dict>
+					<key>Comment</key>
+					<string>change PEGP to GFX0</string>
+					<key>Disabled</key>
+					<false/>
+					<key>Find</key>
+					<data>
+					UEVHUA==
+					</data>
+					<key>Replace</key>
+					<data>
+					R0ZYMA==
+					</data>
+				</dict>
 			</array>
 			<key>ReuseFFFF</key>
 			<false/>
@@ -89,11 +103,19 @@
 			<false/>
 			<key>Generate</key>
 			<dict>
+				<key>APLF</key>
+				<false/>
+				<key>APSN</key>
+				<false/>
 				<key>CStates</key>
-				<false/>
+				<true/>
 				<key>PStates</key>
-				<false/>
+				<true/>
+				<key>PluginType</key>
+				<true/>
 			</dict>
+			<key>PluginType</key>
+			<string>1</string>
 		</dict>
 		<key>SortedOrder</key>
 		<array>
@@ -128,7 +150,7 @@
 	<key>CPU</key>
 	<dict>
 		<key>HWPEnable</key>
-		<true/>
+		<false/>
 		<key>UseARTFrequency</key>
 		<false/>
 	</dict>
@@ -287,35 +309,35 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>09/25/2018</string>
+		<string>04/22/2019</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>IM171.88Z.F000.B00.1809251200</string>
+		<string>IMP11.88Z.F000.B00.1904222000</string>
 		<key>Board-ID</key>
-		<string>Mac-B809C3757DA9BB8D</string>
+		<string>Mac-7BA5B2D9E42DDD94</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C025254014NGPF7UE</string>
+		<string>C02702600GUJG36UE</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
 		<string>1.0</string>
 		<key>ChassisAssetTag</key>
-		<string>iMac-Aluminum</string>
+		<string>iMacPro-Aluminum</string>
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>161.0.0.0.0</string>
+		<string>220.260.170.0.0</string>
 		<key>Family</key>
-		<string>iMac17,1</string>
+		<string>iMac Pro</string>
 		<key>FirmwareFeatures</key>
-		<string>0xFC0FE137</string>
+		<string>0xFD8FF53F</string>
 		<key>FirmwareFeaturesMask</key>
-		<string>0xFF1FFF3F</string>
+		<string>0xFF9FFF3F</string>
 		<key>LocationInChassis</key>
 		<string>Part Component</string>
 		<key>Manufacturer</key>
@@ -323,13 +345,13 @@
 		<key>Mobile</key>
 		<false/>
 		<key>PlatformFeature</key>
-		<string>0x00</string>
+		<string>0xFFFF</string>
 		<key>ProductName</key>
-		<string>iMac17,1</string>
+		<string>iMacPro1,1</string>
 		<key>SerialNumber</key>
-		<string>C02PW09UGG7L</string>
+		<string>C02T3LZXHX87</string>
 		<key>SmUUID</key>
-		<string>A2961A9E-0599-4E71-AEA1-BB144A1988AE</string>
+		<string>D2AA8218-29CC-49A9-9A16-A809FAB6F735</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
