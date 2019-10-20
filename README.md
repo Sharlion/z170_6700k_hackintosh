@@ -19,7 +19,7 @@
 <div align=center><img src="https://github.com/Sharlion/z170_6700k_hackintosh/blob/10.13/pic/FDB4A33D-701B-48EA-B59E-CC6FEDFEE9F2.png" /></div>
 
 * [工作情况如下]
-	* 10.14.3(此config兼容10.13.6)
+	* 10.15
 	* 显卡、声卡、网卡三卡完美
 	* USB3.0正常
 	* cpu变频正常
