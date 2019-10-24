@@ -159,7 +159,7 @@
 		<key>Audio</key>
 		<dict>
 			<key>Inject</key>
-			<integer>5</integer>
+			<integer>53</integer>
 		</dict>
 		<key>USB</key>
 		<dict>
