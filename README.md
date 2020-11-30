@@ -15,7 +15,7 @@
     * clover引导已经基本稳定，不出意外的话更新lilu/whatevergreen即可
     * 从11.0.1开始，引导将换为OpenCore引导
 * [图片欣赏]
-<div align=center><img src="https://github.com/Sharlion/z170_6700k_hackintosh/blob/10.13/pic/11.0.1.png" /></div>
+<div align=center><img src="https://github.com/Sharlion/z170_6700k_hackintosh/blob/10.13/pic/Big Sur.png" /></div>
 <div align=center><img src="https://github.com/Sharlion/z170_6700k_hackintosh/blob/10.13/pic/2.png" /></div>
 <div align=center><img src="https://github.com/Sharlion/z170_6700k_hackintosh/blob/10.13/pic/3.png" /></div>
 <div align=center><img src="https://github.com/Sharlion/z170_6700k_hackintosh/blob/10.13/pic/FDB4A33D-701B-48EA-B59E-CC6FEDFEE9F2.png" /></div>
